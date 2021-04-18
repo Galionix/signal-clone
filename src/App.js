@@ -11,6 +11,8 @@ const named_colors = {
   alert: 'red',
   highlight: 'rgba(255, 255, 255, 0.3)'
 }
+
+
 function App() {
   return (
     <Container className="App">
